@@ -1,2 +1,2 @@
 # shopwiz.neu
-Neutrino
+ShopwizNeu
